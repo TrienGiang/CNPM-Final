@@ -1,0 +1,10 @@
+C:\Users\giang\source\repos\FinalPrj_CNPM\FinalPrj_CNPM\bin\Debug\FinalPrj_CNPM.exe.config
+C:\Users\giang\source\repos\FinalPrj_CNPM\FinalPrj_CNPM\bin\Debug\FinalPrj_CNPM.exe
+C:\Users\giang\source\repos\FinalPrj_CNPM\FinalPrj_CNPM\bin\Debug\FinalPrj_CNPM.pdb
+C:\Users\giang\source\repos\FinalPrj_CNPM\FinalPrj_CNPM\obj\Debug\FinalPrj_CNPM.csproj.AssemblyReference.cache
+C:\Users\giang\source\repos\FinalPrj_CNPM\FinalPrj_CNPM\obj\Debug\FinalPrj_CNPM.frmMain.resources
+C:\Users\giang\source\repos\FinalPrj_CNPM\FinalPrj_CNPM\obj\Debug\FinalPrj_CNPM.Properties.Resources.resources
+C:\Users\giang\source\repos\FinalPrj_CNPM\FinalPrj_CNPM\obj\Debug\FinalPrj_CNPM.csproj.GenerateResource.cache
+C:\Users\giang\source\repos\FinalPrj_CNPM\FinalPrj_CNPM\obj\Debug\FinalPrj_CNPM.csproj.CoreCompileInputs.cache
+C:\Users\giang\source\repos\FinalPrj_CNPM\FinalPrj_CNPM\obj\Debug\FinalPrj_CNPM.exe
+C:\Users\giang\source\repos\FinalPrj_CNPM\FinalPrj_CNPM\obj\Debug\FinalPrj_CNPM.pdb
